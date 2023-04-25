@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\CalculationLib2\CalculationLib2\bin\Debug\CalculationLib2.exe.config
+C:\Users\user\source\repos\CalculationLib2\CalculationLib2\bin\Debug\CalculationLib2.exe
+C:\Users\user\source\repos\CalculationLib2\CalculationLib2\bin\Debug\CalculationLib2.pdb
+C:\Users\user\source\repos\CalculationLib2\CalculationLib2\obj\Debug\CalculationLib2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CalculationLib2\CalculationLib2\obj\Debug\CalculationLib2.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\CalculationLib2\CalculationLib2\obj\Debug\CalculationLib2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CalculationLib2\CalculationLib2\obj\Debug\CalculationLib2.exe
+C:\Users\user\source\repos\CalculationLib2\CalculationLib2\obj\Debug\CalculationLib2.pdb
+C:\Users\user\source\repos\CalculationLib2\CalculationLib2\obj\Debug\CalculationLib2.csproj.CopyComplete
